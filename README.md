@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **opensource to contribute.**
 
-- 📝 I regularly write articles on [human psycology/tech related stuff.](human psycology/tech related stuff.)
+- 📝 I regularly write articles on [human psycology/tech related stuff].
 
 - 💬 Ask me about **DSA or any tech-related stuff.**
 
