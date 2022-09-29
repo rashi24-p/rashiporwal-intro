@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashi Porwal.</h1>
 <h3 align="center">SIH"22 Finalist|Student Ambassador of Anglehack|learner</h3>
 
-- 🔭 I’m currently working on **App development.**
+- 🔭 I’m currently working on **WEB development.**
 
-- 🌱 I’m currently learning **C++/dart/flutter.**
+- 🌱 I’m currently learning **C++/html/Css/javascript.**
 
-- 👯 I’m looking to collaborate on **You Tube.**
+- 👯 I’m looking to collaborate with "open source expertese".**
 
 - 🤝 I’m looking for **opensource to contribute.**
 
